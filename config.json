@@ -1,0 +1,4 @@
+{
+  "uploadTimes": ["0 6 * * *", "0 19 * * *"], 
+  "videoFolder": "./videos"
+}
