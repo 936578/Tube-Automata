@@ -41,6 +41,8 @@ function checkFolderForVideos() {
     });
 }
 
+console.log("George was here")
+
 // Set up the scheduled tasks based on config.json
 console.log("Starting YouTube Bot Scheduler...");
 config.uploadTimes.forEach(time => {
